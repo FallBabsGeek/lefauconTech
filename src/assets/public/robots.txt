@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lefaucon-securi.tech/sitemap.xml
