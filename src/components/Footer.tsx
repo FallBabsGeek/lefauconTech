@@ -67,7 +67,7 @@ export const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="text-blue-400 mr-3 flex-shrink-0" />
-                <a href="mailto:contact@lefaucon-securitech.fr" className="hover:text-blue-400 transition-colors">contact@lefaucon-securitech.fr</a>
+                <a href="mailto:contact@lefaucon-securitech.fr" className="hover:text-blue-400 transition-colors">contact@lefaucon-securitech.tech</a>
               </li>
             </ul>
           </div>
