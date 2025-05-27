@@ -1,0 +1,1 @@
+<Shield className={`h-8 w-8 ${isScrolled ? 'text-blue-600' : 'text-white'}`} />
